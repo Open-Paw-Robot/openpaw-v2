@@ -1,7 +1,7 @@
 # 🐾 OpenPaw Robot — V2 (Custom Rolling Robot, Sep 2025 – Jan 2026)
 
 The second generation of the **OpenPaw / PawMe** robot: still a rolling sphere robot like
-[V1](https://github.com/Open-Paw-Robot/openpaw-v1), but **fully re-engineered in-house** —
+[V1](https://github.com/openpawrobotai/openpaw-v1), but **fully re-engineered in-house** —
 from-scratch mechanical design and a custom PCBA with an expanded sensor suite.
 **Ten units were built, tested and shipped.**
 
@@ -31,7 +31,7 @@ from-scratch mechanical design and a custom PCBA with an expanded sensor suite.
   work converged on a desktop companion with an expressive face, tilting head and charging
   dock. On 9 Jan 2026 the team confirmed the new industrial design could no longer fit a
   transparent ball — the sphere was formally retired
-  → [V3](https://github.com/Open-Paw-Robot/openpaw-v3).
+  → [V3](https://github.com/openpawrobotai/openpaw-v3).
 
 ### Engineering notes worth keeping
 
@@ -71,8 +71,8 @@ from-scratch mechanical design and a custom PCBA with an expanded sensor suite.
 
 ## 🤖 Other Versions
 
-- [openpaw-v1](https://github.com/Open-Paw-Robot/openpaw-v1) — ESP-ROLL replica (spherical ball-bot)
-- [openpaw-v3](https://github.com/Open-Paw-Robot/openpaw-v3) — **current generation** (two-wheeled expressive companion)
+- [openpaw-v1](https://github.com/openpawrobotai/openpaw-v1) — ESP-ROLL replica (spherical ball-bot)
+- [openpaw-v3](https://github.com/openpawrobotai/openpaw-v3) — **current generation** (two-wheeled expressive companion)
 
 ---
 
